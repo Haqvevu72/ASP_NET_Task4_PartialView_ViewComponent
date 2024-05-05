@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/obj/Debug/net8.0/scopedcss/projectbundle/ASP_NET_Task4_PView_VCoomp.bundle.scp.css",
+      "PackagePath": "staticwebassets/ASP_NET_Task4_PView_VCoomp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/css/mediaqueries.css",
+      "PackagePath": "staticwebassets/css/mediaqueries.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/about-pic.png",
+      "PackagePath": "staticwebassets/images/about-pic.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/arrow.png",
+      "PackagePath": "staticwebassets/images/arrow.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/checkmark.png",
+      "PackagePath": "staticwebassets/images/checkmark.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/education.png",
+      "PackagePath": "staticwebassets/images/education.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/email.png",
+      "PackagePath": "staticwebassets/images/email.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/experience.png",
+      "PackagePath": "staticwebassets/images/experience.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/github.png",
+      "PackagePath": "staticwebassets/images/github.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/linkedin.png",
+      "PackagePath": "staticwebassets/images/linkedin.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/profile-pic-2.png",
+      "PackagePath": "staticwebassets/images/profile-pic-2.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/profile-pic.png",
+      "PackagePath": "staticwebassets/images/profile-pic.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/project-1.png",
+      "PackagePath": "staticwebassets/images/project-1.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/project-2.png",
+      "PackagePath": "staticwebassets/images/project-2.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/project-3.png",
+      "PackagePath": "staticwebassets/images/project-3.png"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/images/resume-example.pdf",
+      "PackagePath": "staticwebassets/images/resume-example.pdf"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/elgunhaqverdiyev/Desktop/WebApplication1/ASP_NET_Task4_PView_VCoomp/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ASP_NET_Task4_PView_VCoomp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ASP_NET_Task4_PView_VCoomp.props",
+      "PackagePath": "build\\ASP_NET_Task4_PView_VCoomp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ASP_NET_Task4_PView_VCoomp.props",
+      "PackagePath": "buildMultiTargeting\\ASP_NET_Task4_PView_VCoomp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ASP_NET_Task4_PView_VCoomp.props",
+      "PackagePath": "buildTransitive\\ASP_NET_Task4_PView_VCoomp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

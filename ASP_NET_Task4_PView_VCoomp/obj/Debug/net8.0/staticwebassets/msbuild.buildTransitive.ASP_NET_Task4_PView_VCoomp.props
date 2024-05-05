@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ASP_NET_Task4_PView_VCoomp.props" />
+</Project>
